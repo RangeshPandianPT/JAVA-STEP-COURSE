@@ -1,4 +1,4 @@
-# JAVA-STEP-COURSE 🚀
+# JAVA-STEP-COURSE 
 
 This repository contains **Java programming files** created while learning and practicing Java step by step. The goal is to build a strong foundation in **core Java concepts, Object-Oriented Programming (OOP), and String operations** through practical examples and exercises.
 
