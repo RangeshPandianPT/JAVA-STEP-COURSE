@@ -70,12 +70,12 @@ java HelloWorld
 ```
 JAVA-STEP-COURSE/
 │── Java Strings/
-│   ├── StringBasics.java
-│   ├── StringBuilderExample.java
-│   └── Practice_Problems/
+│   ├── Practice_Problems/
+│   ├── Assignment_Problems/
+│   └── S1_Lab_Problems/
 │
 │── OOP-Concept/
-│   ├── InheritanceExample.java
+│   ├── Practice_Problems/
 │   ├── PolymorphismDemo.java
 │   └── EncapsulationTest.java
 │
