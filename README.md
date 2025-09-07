@@ -34,6 +34,14 @@ This repository contains **Java programming files** created while learning and p
 * Comparing `String`, `StringBuilder`, and `StringBuffer`
 * Hands-on practice problems
 
+### 🔹 Java Constructors & Keywords
+Constructors in Java
+
+*Special methods used to initialize objects.
+*Name must be the same as the class name.
+*No return type (not even void).
+*Invoked automatically when an object is created using new
+
 ---
 
 ## 🛠️ How to Run
@@ -75,7 +83,10 @@ JAVA-STEP-COURSE/
 │   ├── StringConcatPerformance.java
 │   └── Practice_Problems/
 │
-└── README.md
+└── Java Constructors and Keywords/
+│   ├── Practice_Problems/
+
+    
 ```
 
 ---
