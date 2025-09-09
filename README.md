@@ -76,12 +76,13 @@ JAVA-STEP-COURSE/
 │
 │── OOP-Concept/
 │   ├── Practice_Problems/
-│   ├── PolymorphismDemo.java
-│   └── EncapsulationTest.java
+│   ├── Assignment_Problems/
+│   └── S2_Lab_Problems/
 │
 │── String_operation&Performance/
-│   ├── StringConcatPerformance.java
-│   └── Practice_Problems/
+│   ├── Practice_Problems/
+│   └── Assignment_Problems/
+|   └── S3_Lab_Problems/
 │
 └── Java Constructors and Keywords/
 │   ├── Practice_Problems/
