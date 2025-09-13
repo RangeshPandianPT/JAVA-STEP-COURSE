@@ -88,6 +88,11 @@ JAVA-STEP-COURSE/
 │   ├── Practice_Problems/
 │   └── Assignment_Problems/
 |   └── S4_Lab_Problems/
+|
+└── Encapsulation/
+│   ├── Practice_Problems/
+│   └── Assignment_Problems/
+|   └── S5_Lab_Problems/
 
     
 ```
