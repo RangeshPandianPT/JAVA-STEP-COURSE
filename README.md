@@ -93,6 +93,11 @@ JAVA-STEP-COURSE/
 │   ├── Practice_Problems/
 │   └── Assignment_Problems/
 |   └── S5_Lab_Problems/
+|
+└── Inheritance/
+│   ├── Practice_Problems/
+│   └── Assignment_Problems/
+|   └── S6_Lab_Problems/
 
     
 ```
