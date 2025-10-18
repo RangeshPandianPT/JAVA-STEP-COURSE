@@ -108,6 +108,9 @@ JAVA-STEP-COURSE/
 │   ├── Practice_Problems/
 │   └── Assignment_Problems/
 |   └── S8_Lab_Problems/
+|
+└── UML Diagram/
+│   ├── Practice_Problems/
 
     
 ```
