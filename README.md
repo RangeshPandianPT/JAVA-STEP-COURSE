@@ -109,10 +109,15 @@ JAVA-STEP-COURSE/
 │   └── Assignment_Problems/
 |   └── S8_Lab_Problems/
 |
-└── UML Diagram/
+└── Object Class Methods, Inner Classes Concept Introduction/
 │   ├── Practice_Problems/
 │   └── Assignment_Problems/
 |   └── S9_Lab_Problems/
+|
+└── UML Diagram/
+│   ├── Practice_Problems/
+│   └── Assignment_Problems/
+|   └── S10_Lab_Problems/
 
     
 ```
