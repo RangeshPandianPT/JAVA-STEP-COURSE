@@ -122,9 +122,13 @@ JAVA-STEP-COURSE/
 └── Linear DS/
 │   ├── Practice_Problems/
 │   └── Assignment_Problems/
-|   └── S11_Lab_Problems/
-
-    
+|   └── S11 & S12_Lab_Problems/
+|
+└── Linked List Implementation & Operations/
+│   ├── Practice_Problems/
+│   └── Assignment_Problems/
+|   └── S13_Lab_Problems/
+   
 ```
 
 ---
